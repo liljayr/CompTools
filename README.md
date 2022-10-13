@@ -8,7 +8,7 @@ Right something intersting here
 ## Maybe a figure? 
 
 
-![Text](/Users/stef_cm/Documents/GitHub/CompTools/figures/yes.jpeg "I was bored")
+![Text](https://github.com/liljayr/CompTools/blob/main/figures/yes.jpeg "I was bored")
 
 
 
@@ -31,5 +31,5 @@ Inspiration, code snippets, etc.
 * [Google](https://www.google.com)
 * [Google](https://www.google.com)
 * [Google](https://www.google.com)
-* [[Google](https://www.google.com)
+* [Google](https://www.google.com)
 * [Google](https://www.google.com)
