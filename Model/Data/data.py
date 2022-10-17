@@ -29,17 +29,19 @@ def data():
 
     book_id = []
     book_name = []
+    book_date = []
     summary = []
     genre = []
 
     for i in tqdm(data):
         book_id.append(i[0])
         book_name.append(i[2])
+        book_date.append(i[3])
         genre.append(i[5])
         summary.append(i[6])
 
     books = pd.DataFrame({'book_id': book_id, 'book_name': book_name,
-                    'genre': genre, 'summary': summary})
+                    'date': book_date,'genre': genre, 'summary': summary})
     return books
 
 # final_data = data()
