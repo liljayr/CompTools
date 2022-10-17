@@ -3,7 +3,7 @@
 
 # Text Classification and Recomendation System
 
-Right something intersting here 
+Write something intersting here 
 
 ## Maybe a figure? 
 
@@ -15,6 +15,15 @@ Right something intersting here
 ## Dataset
 
 https://www.kaggle.com/code/iamhungundji/book-summary-genre-prediction/notebook
+
+## Starting up a virtual environment
+For mac write this in the terminal: python3 -m venv .venv
+
+For windows write this: python -m venv .venv
+
+Then select interperter using Cmd/Cntrl + Shift + P and then open a new terminal.
+
+Then it is easy to download all required requirements using pip install -r requirements.txt
 
 ## Authors
 

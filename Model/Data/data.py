@@ -20,12 +20,12 @@ from sklearn.metrics import f1_score, accuracy_score
 
 
 def data():
-    data = []   
+    data = []
 
-    with open("/Users/stef_cm/Documents/GitHub/CompTools/Model/Data/booksummaries.txt", 'r') as f:
-     reader = csv.reader(f, dialect='excel-tab')
-     for row in tqdm(reader):
-      data.append(row)
+    with open("booksummaries.txt", 'r') as f:
+        reader = csv.reader(f, dialect='excel-tab')
+        for row in tqdm(reader):
+            data.append(row)
 
     book_id = []
     book_name = []
@@ -33,10 +33,10 @@ def data():
     genre = []
 
     for i in tqdm(data):
-     book_id.append(i[0])
-     book_name.append(i[2])
-     genre.append(i[5])
-     summary.append(i[6])
+        book_id.append(i[0])
+        book_name.append(i[2])
+        genre.append(i[5])
+        summary.append(i[6])
 
     books = pd.DataFrame({'book_id': book_id, 'book_name': book_name,
                     'genre': genre, 'summary': summary})
