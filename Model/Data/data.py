@@ -41,3 +41,6 @@ def data():
     books = pd.DataFrame({'book_id': book_id, 'book_name': book_name,
                     'genre': genre, 'summary': summary})
     return books
+
+# final_data = data()
+# final_data.to_csv("book_info.csv")
