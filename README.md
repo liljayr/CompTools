@@ -23,7 +23,9 @@ For windows write this: python -m venv .venv
 
 Then select interperter using Cmd/Cntrl + Shift + P and then open a new terminal.
 
-Then it is easy to download all required requirements using pip install -r requirements.txt
+Then it is easy to download all required requirements using pip install -r requirements.txt.
+
+See https://code.visualstudio.com/docs/python/environments
 
 ## Authors
 
