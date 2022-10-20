@@ -1,21 +1,14 @@
 import pandas as pd
-import numpy as np
-import json
-import nltk
-import re
 import csv
-import matplotlib.pyplot as plt
 from tqdm import tqdm
-from sklearn.feature_extraction.text import TfidfVectorizer
+import json
 
-from sklearn.model_selection import train_test_split
 
-from sklearn.preprocessing import MultiLabelBinarizer
 
-from sklearn.linear_model import LogisticRegression
-from sklearn.multiclass import OneVsRestClassifier
 
-from sklearn.metrics import f1_score, accuracy_score
+
+
+
 
 
 
@@ -46,6 +39,7 @@ def data():
             book_date.append(int(i[4]))
 
     books = pd.DataFrame({'book_id': book_id, 'book_name': book_name,
+<<<<<<< Updated upstream
                     'date': book_date,'genre': genre, 'summary': summary})
     return books
 
@@ -65,3 +59,14 @@ print(pd_data.dtypes)
 # pd_data['date'].fillna(0)
 # pd_data['genre'].fillna('None')
 # pd_data.to_csv("books.csv")
+=======
+                    'genre': genre, 'summary': summary})
+    books.drop(books[books['genre']==''].index, inplace=True)
+    books[books['genre']=='']
+    json.loads(books['genre'][0]).values()
+    genres = []
+    for i in books['genre']:
+     genres.append(list(json.loads(i).values()))
+    books['genre_new'] = genres
+    return books
+>>>>>>> Stashed changes
