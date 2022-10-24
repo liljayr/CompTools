@@ -132,3 +132,6 @@ dmypy.json
 clean_book_ratings.csv
 clean_books_data.csv
 clean_book_ratings.csv.zip
+clean_books_data.csv.zip
+
+.DS_Store
