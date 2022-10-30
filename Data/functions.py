@@ -30,10 +30,8 @@ def clean_books(words):
     return words
 
 
-def clean_ratings(ratings):
-    ratings = re.sub("[^0-9]", "", "sdkjh987978asd098as0980a98sd")
-    '987978098098098'
-    return ratings 
+
+ 
 
 
 
