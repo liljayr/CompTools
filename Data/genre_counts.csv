@@ -1,0 +1,1703 @@
+,genre,count
+0,Fiction,11526
+1,Juvenile Fiction,3566
+2,Religion,3043
+3,History,2584
+4,Biography & Autobiography,2451
+5,Business & Economics,1095
+6,Juvenile Nonfiction,1094
+7,Computers,897
+8,Social Science,874
+9,Science,703
+10,Cooking,646
+11,"Body, Mind & Spirit",618
+12,Health & Fitness,581
+13,Family & Relationships,564
+14,Philosophy,546
+15,Sports & Recreation,490
+16,Psychology,481
+17,Self-Help,480
+18,Language Arts & Disciplines,446
+19,Young Adult Fiction,444
+20,Literary Criticism,440
+21,Political Science,420
+22,Poetry,405
+23,Art,388
+24,Education,379
+25,Nature,372
+26,Music,361
+27,Travel,346
+28,Comics & Graphic Novels,344
+29,Performing Arts,335
+30,Medical,332
+31,Humor,312
+32,Reference,277
+33,Crafts & Hobbies,276
+34,Technology & Engineering,271
+35,Mathematics,241
+36,Drama,239
+37,Foreign Language Study,215
+38,Literary Collections,206
+39,True Crime,186
+40,Architecture,180
+41,Pets,152
+42,Games & Activities,132
+43,Gardening,117
+44,Transportation,109
+45,Law,105
+46,Photography,104
+47,Bibles,99
+48,House & Home,83
+49,"""Children's stories""",80
+50,Antiques & Collectibles,75
+51,Design,62
+52,Games,59
+53,Detective and mystery stories,54
+54,Animals,43
+55,Study Aids,41
+56,Young Adult Nonfiction,32
+57,Great Britain,31
+58,American fiction,31
+59,Bible,31
+60,Adventure stories,30
+61,Brothers and sisters,29
+62,FICTION,28
+63,English fiction,26
+64,United States,25
+65,Electronic books,25
+66,African Americans,25
+67,"World War, 1939-1945",23
+68,English language,23
+69,England,21
+70,JUVENILE FICTION,19
+71,Encyclopedias and dictionaries,18
+72,Christmas stories,17
+73,American poetry,16
+74,Fantasy fiction,16
+75,Americans,15
+76,"Authors, English",14
+77,Science fiction,14
+78,Families,14
+79,Children,13
+80,China,13
+81,"""Children's literature""",13
+82,British,12
+83,Mormon Church,12
+84,California,12
+85,Presidents,11
+86,Country life,11
+87,France,11
+88,Cats,11
+89,American wit and humor,10
+90,Africa,10
+91,"Authors, American",10
+92,Civilization,10
+93,Man-woman relationships,10
+94,"Science fiction, American",10
+95,Birds,10
+96,"Comic books, strips, etc",10
+97,BIOGRAPHY & AUTOBIOGRAPHY,10
+98,Fairy tales,9
+99,Curiosities and wonders,9
+100,American literature,9
+101,Europe,9
+102,City and town life,9
+103,Conduct of life,9
+104,Christian life,9
+105,Canada,8
+106,Artists,8
+107,Adultery,8
+108,"Detective and mystery stories, American",8
+109,Large type books,8
+110,Bears,8
+111,Copyright,8
+112,Adventure and adventurers,8
+113,Indians of North America,8
+114,Dogs,8
+115,Christian fiction,8
+116,Boys,8
+117,Life on other planets,7
+118,English drama,7
+119,Actors,7
+120,Fantasy,7
+121,Friendship,7
+122,"American wit and humor, Pictorial",7
+123,Domestic fiction,7
+124,Horror tales,7
+125,Chicago (Ill.),7
+126,Brothers,6
+127,"""Children's poetry""",6
+128,Ireland,6
+129,Motion picture actors and actresses,6
+130,American drama,6
+131,Murder,6
+132,HISTORY,6
+133,Ghost stories,6
+134,"""Children's poetry, American""",6
+135,Consciousness,6
+136,Frontier and pioneer life,6
+137,Biography,6
+138,Communism,6
+139,Historical fiction,6
+140,Gay men,6
+141,Germany,6
+142,Horses,6
+143,Dwellings,6
+144,"Abnormalities, Human",6
+145,Australian fiction,5
+146,Bildungsromans,5
+147,Criminal defense lawyers,5
+148,English poetry,5
+149,Child development,5
+150,Care of the sick,5
+151,Behavior,5
+152,Generals,5
+153,Business,5
+154,"Holocaust, Jewish (1939-1945)",5
+155,Greece,5
+156,Audiobooks,5
+157,Absurd (Philosophy),5
+158,Christianity,5
+159,Halloween,5
+160,Christmas,5
+161,FAMILY & RELATIONSHIPS,5
+162,Adolescence,5
+163,Clothing and dress,5
+164,Human-alien encounters,5
+165,Cookery,5
+166,"Cadfael, Brother (Fictitious character)",5
+167,"Detective and mystery stories, English",5
+168,Agriculture,5
+169,Capitalism,5
+170,Alaska,5
+171,Self-actualization (Psychology),5
+172,JUVENILE NONFICTION,5
+173,"Authors, Irish",5
+174,Australia,4
+175,Islam,4
+176,Counting,4
+177,Love stories,4
+178,Rabbits,4
+179,Autobiographies,4
+180,Antarctica,4
+181,Astronomy,4
+182,Bullying,4
+183,Assassins,4
+184,Marriage,4
+185,Classical fiction,4
+186,Books and reading,4
+187,COMICS & GRAPHIC NOVELS,4
+188,Death,4
+189,"World War, 1914-1918",4
+190,Calculus,4
+191,COMPUTERS,4
+192,"Beauty, Personal",4
+193,India,4
+194,Chemistry,4
+195,Humorous stories,4
+196,Cousins,4
+197,Creative writing,4
+198,Austria,4
+199,Behavior modification,4
+200,Christianity and other religions,4
+201,Medicine,4
+202,"""Children's stories, American""",4
+203,Hatha yoga,4
+204,Foxes,4
+205,Boarding schools,4
+206,Drugs,4
+207,Animal behavior,4
+208,Infants,4
+209,Russia,4
+210,Jews,4
+211,Graphic novels,4
+212,Aboriginal Australians,4
+213,Apache Indians,4
+214,Baseball players,4
+215,Farm life,4
+216,Cornwall (England : County),4
+217,"""Children's poetry, English""",4
+218,America,3
+219,"Vietnam War, 1961-1975",3
+220,Interpersonal relations,3
+221,Musicals,3
+222,Scotland,3
+223,Tales,3
+224,Nursing care plans,3
+225,Sea stories,3
+226,Beagle Expedition,3
+227,Alienation (Social psychology),3
+228,Egypt,3
+229,Creative ability,3
+230,Manners and customs,3
+231,"National characteristics, American",3
+232,Bullies,3
+233,Musicians,3
+234,Inheritance and succession,3
+235,"Battle, Superintendent (Fictitious character)",3
+236,Astronautics,3
+237,Human anatomy,3
+238,Mexican Americans,3
+239,Babysitters,3
+240,"Bible stories, English",3
+241,"Civilization, Medieval",3
+242,Bedtime,3
+243,"Fantasy fiction, English",3
+244,Dating (Social customs),3
+245,Apartheid,3
+246,Physicians,3
+247,Chivalry,3
+248,Alphabet,3
+249,Readers,3
+250,Motion pictures,3
+251,British and Irish drama (Dramatic works by one author).,3
+252,Biographical fiction,3
+253,Emperors,3
+254,Courage,3
+255,Abolitionists,3
+256,Erotic stories,3
+257,Child rearing,3
+258,"Mulder, Fox (Fictitious character)",3
+259,"Novelists, English",3
+260,Fascism,3
+261,"Alleyn, Roderick (Fictitious character)",3
+262,Illumination of books and manuscripts,3
+263,Chick lit,3
+264,Businesswomen,3
+265,Police,3
+266,Fiction in English,3
+267,Atlantis,3
+268,"Campion, Albert (Fictitious character)",3
+269,Blizzards,3
+270,New York (N.Y.),3
+271,Guerrillas,3
+272,Cookbooks,3
+273,Mexican American women,3
+274,Sisters,3
+275,Painters,3
+276,"Animals, Mythical",3
+277,Buddhism,3
+278,Evangelistic work,3
+279,Actresses,3
+280,"Architecture, Domestic",3
+281,Catholics,3
+282,Best friends,3
+283,Evangelistic sermons,3
+284,Caricatures and cartoons,3
+285,Buddha (The concept),3
+286,Ghosts,3
+287,Java (Computer program language),3
+288,Criminal investigation,3
+289,Confederate States of America,3
+290,Mythologie ancienne - Dictionnaires anglais,3
+291,Antiquities,3
+292,Mysticism,3
+293,Alcoholics,3
+294,Camping,3
+295,German language,3
+296,Folklore,3
+297,Baptists,3
+298,Science fiction.,3
+299,French fiction,3
+300,Diary fiction,3
+301,Byzantine Empire,3
+302,"Cookery, French",3
+303,Constitutional history,3
+304,Birthdays,3
+305,Knights and knighthood,3
+306,Chess,3
+307,Parliamentary practice.,3
+308,Composers,3
+309,Botswana,3
+310,Dragons,3
+311,Conversion,3
+312,Baking,3
+313,Authors,3
+314,New England,3
+315,"Civilization, Modern",3
+316,Amusements,3
+317,Mice,3
+318,Arthurian romances,3
+319,African American women,3
+320,Monsters,3
+321,Fathers and sons,3
+322,Computer networks,3
+323,British Columbia,3
+324,Cotswold Hills (England),3
+325,Technology,3
+326,Rock music,3
+327,Circus,3
+328,Short stories,3
+329,Popular music,2
+330,Fantasy games,2
+331,Albert Nyanza,2
+332,"World War Ii, 1939-1945",2
+333,Apartment dwellers,2
+334,Imaginary places,2
+335,English literature,2
+336,Aunts,2
+337,Food,2
+338,"Horror tales, American.",2
+339,Argentina,2
+340,Aeronautics,2
+341,"Cassidy, Hopalong (Fictitious character)",2
+342,"Fables, American",2
+343,"Baggins, Frodo (Fictitious character)",2
+344,"Atlases, British",2
+345,Oglala Indians,2
+346,Abandoned children,2
+347,"Reconstruction (U.S. history, 1865-1877)",2
+348,College teachers,2
+349,Prisoners of war,2
+350,Nuclear warfare,2
+351,Atlantic salmon,2
+352,Celtic antiquities,2
+353,Rome,2
+354,Holocaust denial literature,2
+355,Conservation of natural resources,2
+356,Australian drama,2
+357,Bands (Music),2
+358,"""Children's stories, English""",2
+359,"Art, Dutch",2
+360,Brain,2
+361,Childbirth,2
+362,Blandings Castle (England : Imaginary place),2
+363,Hebrew language,2
+364,Women millionaires,2
+365,Corporate culture,2
+366,"Sermons, American",2
+367,Alternative stories,2
+368,Czech fiction,2
+369,Fruit wines,2
+370,American wit and humor.,2
+371,Helicopters,2
+372,POETRY,2
+373,Cookery.,2
+374,Diabetes,2
+375,Cancer,2
+376,Soldiers,2
+377,Rock musicians,2
+378,Soviet Union,2
+379,Handicraft,2
+380,Dreams,2
+381,Businessmen,2
+382,Color,2
+383,Journalists,2
+384,Ballet dancing,2
+385,"Humorous stories, American",2
+386,Color in gardening,2
+387,Adoption,2
+388,Happiness,2
+389,Baseball,2
+390,Business presentations,2
+391,Hanukkah,2
+392,Emotions,2
+393,"""Children's stories, Swiss (German)""",2
+394,"Falstaff, John, Sir (Fictitious character)",2
+395,Private investigators,2
+396,"Finance, Personal",2
+397,Epic poetry,2
+398,Physics,2
+399,Conversation,2
+400,Japan,2
+401,Archaeology,2
+402,Fairies,2
+403,Sweden,2
+404,Human-computer interaction,2
+405,Fables,2
+406,Female offenders,2
+407,Midget submarines,2
+408,Great Plains,2
+409,Liberty,2
+410,College readers,2
+411,Derelicts,2
+412,SCIENCE,2
+413,Plot-your-own stories,2
+414,Common fallacies,2
+415,Language and languages,2
+416,Denmark,2
+417,Thailand,2
+418,Camps,2
+419,Beijing (China),2
+420,Experimental fiction,2
+421,AIDS (Disease),2
+422,Adopted children,2
+423,Air pilots,2
+424,Georgia,2
+425,Child abuse,2
+426,Fossils,2
+427,Belize,2
+428,Pirates,2
+429,Forensic psychology,2
+430,"Cartwright, Peter, 1785-1872",2
+431,Arab-Israeli conflict,2
+432,Jewish fiction,2
+433,Examination of witnesses,2
+434,"Appleby, John, Sir (Fictitious character)",2
+435,"Arnheim, Battle of, 1944",2
+436,Fathers and daughters,2
+437,Lost treasure,2
+438,"Anatomy, Artistic",2
+439,Gardens,2
+440,Women,2
+441,Authorship,2
+442,Hungarian fiction,2
+443,Belgium,2
+444,Gothic revival (Literature),2
+445,Political science,2
+446,Decoration and ornament,2
+447,Florida,2
+448,Advanced placement programs (Education),2
+449,Crime,2
+450,Corporations,2
+451,Arab countries,2
+452,War stories,2
+453,Crimes without victims,2
+454,Missions,2
+455,Brazil,2
+456,"Algebras, Linear",2
+457,Dysfunctional families,2
+458,Navajo language,2
+459,"Hollywood (Los Angeles, Calif.)",2
+460,Cargo ships,2
+461,Color in interior decoration,2
+462,Beowulf,2
+463,Female friendship,2
+464,Autobiographical fiction,2
+465,Latin Americans,2
+466,Computer games,2
+467,Bereavement,2
+468,Legends,2
+469,Vietnam,2
+470,"""Children's poetry, English.""",2
+471,Anthropologists,2
+472,"Dialect poetry, Scottish",2
+473,Nez Perce Indians,2
+474,Ciphers,2
+475,Christian biography,2
+476,Alligators,2
+477,Concentration camps,2
+478,Geography,2
+479,Electronic book,2
+480,Business cycles,2
+481,Aden (Yemen),2
+482,Christian women,2
+483,"""Children's stories, American.""",2
+484,Cowboys,2
+485,"Dalziel, Andrew (Fictitious character)",2
+486,"Detective and mystery comic books, strips, etc",2
+487,Gambling,2
+488,Assisi (Italy),2
+489,"Fuentes de Oñoro, Battle of, Fuentes de Oñoro, Spain, 1811",2
+490,Dystopias,2
+491,Lesbians,2
+492,Picture puzzles,2
+493,Differential equations,2
+494,"Fantasy fiction, American",2
+495,Czechoslovakia,2
+496,Fairy tales.,2
+497,Art and society,2
+498,Sex,2
+499,Covenant theology,2
+500,Pilgrims (New Plymouth Colony),2
+501,Economics,2
+502,Exercise,2
+503,HEALTH & FITNESS,2
+504,Mystery.,2
+505,Missionaries,2
+506,Dentists,2
+507,Dolls,2
+508,Elephants,2
+509,Buses,2
+510,Antislavery movements,2
+511,"Folk songs, Hebrew",2
+512,Singers,2
+513,Clergy,2
+514,Family life,2
+515,Environmental protection,2
+516,Castles,2
+517,Early childhood education,2
+518,Middle East,2
+519,Aesthetics,2
+520,Indic fiction (English),2
+521,Interior decoration,2
+522,Shipwrecks,2
+523,Biochemistry,2
+524,Comedy,2
+525,Hurricanes,2
+526,Meditation,2
+527,Time management,2
+528,Children with disabilities,2
+529,Composition (Music),2
+530,"Africa, West",2
+531,"Artists, Dutch",2
+532,Escapes,2
+533,African American dramatists,2
+534,Anti-clericalism,2
+535,Etiquette,2
+536,Ducks,2
+537,Clifford (Fictitious character : Bridwell),2
+538,Colombia,2
+539,Conservatism,2
+540,"Associations, institutions, etc",2
+541,Birthday parties,2
+542,Mindfulness (Psychology),2
+543,Discworld (Imaginary place),2
+544,Good and evil,2
+545,Appalachian Region,2
+546,Elves,2
+547,Country homes,2
+548,Algebra,2
+549,Board books,2
+550,"Competition, International",1
+551,Colombo (Sri Lanka),1
+552,"Dallas, Eve (Fictitious character)",1
+553,"Science fiction, French",1
+554,Perfumes,1
+555,Courtroom artists,1
+556,Homeopathic pharmacopoeias,1
+557,Angkor (Extinct city),1
+558,"Horror tales, American",1
+559,Blood sugar,1
+560,Educational psychology,1
+561,Ex-convicts,1
+562,Minorities,1
+563,"Philosophy, Ancient",1
+564,Communication satellites,1
+565,Baseball stories,1
+566,Air,1
+567,"""Children's songs""",1
+568,New Mexico,1
+569,Vienna (Austria),1
+570,Obsessive-compulsive disorder,1
+571,Stage lighting,1
+572,Hinduism,1
+573,DIEN-BIEN-PHU,1
+574,Pennsylvania,1
+575,Locks and keys,1
+576,Aesop,1
+577,Electronics,1
+578,Brotherhoods,1
+579,Revolutions,1
+580,False imprisonment,1
+581,Jewish ethics,1
+582,High schools,1
+583,Aerodynamics,1
+584,Americanisms,1
+585,Diet,1
+586,Mastodons,1
+587,Canoes and canoeing,1
+588,Turkey,1
+589,RELIGION,1
+590,Cape Cod (Mass.),1
+591,Hindu art,1
+592,Czech-American women,1
+593,Adventure fiction,1
+594,Fruit,1
+595,Apples,1
+596,"Learning, Psychology of",1
+597,Pediatrics,1
+598,Munich Four-Power Agreement,1
+599,Tarot,1
+600,Assassination in literature,1
+601,Angels,1
+602,"Photography, Artistic",1
+603,African American physicians,1
+604,Yachts,1
+605,BIBLES,1
+606,Inventions,1
+607,Kings,1
+608,Alternative lifestyles,1
+609,Colonies in literature,1
+610,Alex (Fictitious character),1
+611,Etiquette for children and teenagers,1
+612,Husbands,1
+613,Maori (New Zealand people),1
+614,Spirit writings,1
+615,Hindu hymns,1
+616,Kingdom of God,1
+617,Booksellers and bookselling,1
+618,Baby sitters,1
+619,Dakota Indians,1
+620,Cults,1
+621,"Alternative histories (Fiction), American",1
+622,JFK (Motion picture),1
+623,Body language,1
+624,Political and/or Miltary intrigue,1
+625,Reincarnation,1
+626,Orchid culture,1
+627,Artificial intelligence,1
+628,Art appreciation,1
+629,Grandchildren,1
+630,Computer sex,1
+631,Cerebral dominance,1
+632,Male nude in art,1
+633,"Art, Tibetan",1
+634,Reincarnation therapy,1
+635,Animals in logging,1
+636,Deep diving,1
+637,"Authors, Yugoslav",1
+638,Dinosaurs,1
+639,Homosexuality,1
+640,Business communication,1
+641,"Medicine, Tibetan",1
+642,Finite element method.,1
+643,Detectives,1
+644,Intelligence officers,1
+645,Linux,1
+646,Celebrities,1
+647,"Carbohydrates, Refined",1
+648,West (U.S.),1
+649,Developmentally disabled,1
+650,Sex role,1
+651,Boats and boating,1
+652,"44 Scotland Street (Edinburgh, Scotland : Imaginary place)",1
+653,Gran Bretaña,1
+654,Casserole cooking,1
+655,Prisoner-of-war escapes,1
+656,Dwarfs,1
+657,Werewolves,1
+658,Urdu poetry,1
+659,Arctic Regions,1
+660,"Animals, Mythical, in art",1
+661,Guvernören (Tanker),1
+662,Finding Nemo (Motion picture),1
+663,"Epic poetry, Assyro-Babylonian",1
+664,"Authors, Spanish",1
+665,Electrical engineering,1
+666,Illustrators,1
+667,East Saint Louis (Ill.),1
+668,Ancient Rome,1
+669,"Central Park (New York, N.Y.)",1
+670,Daredevils,1
+671,"Cooper, Ben (Fictitious character)",1
+672,Mothers and sons,1
+673,Muscles,1
+674,Curious George (Fictitious character),1
+675,Astrology,1
+676,Cartoons and comics,1
+677,"""Amérique latine - Histoire - 1806-1830 (Guerres d'indépendance)""",1
+678,Archetype (Psychology),1
+679,Amish,1
+680,Cambodia,1
+681,Honesty,1
+682,Setters (Dogs),1
+683,Yana Indians,1
+684,Civil engineering,1
+685,Prejudices,1
+686,Learning disabilities,1
+687,Commercial statistics,1
+688,The West,1
+689,Problem children,1
+690,Checkers,1
+691,Sealing,1
+692,Fantastic fiction.,1
+693,Chemical engineering,1
+694,Darkover (Imaginary place),1
+695,Brand name products,1
+696,Astronauts,1
+697,"Art, Islamic",1
+698,Salem (Mass.),1
+699,Real estate business,1
+700,Berlin (Germany),1
+701,Women and religion,1
+702,Self-preservation,1
+703,"""Frankenstein's monster (Fictitious character)""",1
+704,Oral history,1
+705,Home economics,1
+706,"Shugak, Kate (Fictitious character)",1
+707,Mormons and Mormonism,1
+708,Megalithic monuments,1
+709,Communication in marketing.,1
+710,Building sites,1
+711,Kuṇḍalinī,1
+712,Immigrants,1
+713,Llamas,1
+714,Picture books for children,1
+715,Crete,1
+716,Cows,1
+717,"Barnum, P.T. (phineas Taylor), 1810-1891",1
+718,Insurance agents,1
+719,"Bennet, Elizabeth (Fictitious character)",1
+720,Beguines,1
+721,Occult sciences,1
+722,Marketing,1
+723,Travelers,1
+724,Mormons,1
+725,Lewis and Clark Expedition,1
+726,Decorative arts,1
+727,Curiosities and wonders.,1
+728,Oz (Imaginary place),1
+729,Ceramic sculpture,1
+730,Blacks,1
+731,Neuropsychology,1
+732,"DiGriz, James Bolivar (Fictitious character)",1
+733,Bellehaven (Wash. : Imaginary place),1
+734,Multivariate analysis,1
+735,Demonology,1
+736,Product safety.,1
+737,Chivalry.,1
+738,Italian fiction,1
+739,Dogfighting,1
+740,Beverages,1
+741,Political corruption,1
+742,Copenhagen (Denmark),1
+743,Clowns,1
+744,Best sellers,1
+745,Yoga,1
+746,Maps,1
+747,African American women air pilots,1
+748,ANTIQUES & COLLECTIBLES,1
+749,Debutantes,1
+750,Large print books,1
+751,Heroes,1
+752,Magic,1
+753,Landscape,1
+754,Gospel musicians,1
+755,Galapagos Islands,1
+756,Sanskrit language,1
+757,Jewish law,1
+758,Interplanetary voyages,1
+759,Minnesota literature,1
+760,Lighthouses,1
+761,Current Events,1
+762,Spanish language,1
+763,Church work with children with mental disabilities,1
+764,Letter mail handling,1
+765,Prohibition,1
+766,Reiki (Healing system),1
+767,Popular culture,1
+768,Chocolate,1
+769,Bullfighters,1
+770,Newly independent states,1
+771,Critics,1
+772,Autumn,1
+773,Fourth Way (Occultism),1
+774,"Medicine, Popular",1
+775,Pebbles,1
+776,Asian Americans,1
+777,"Airplanes, Military",1
+778,Collective behavior,1
+779,Iguana (Genus),1
+780,Fate and fatalism,1
+781,Buckingham County (Va.),1
+782,ART,1
+783,Zen Buddhism,1
+784,Barges,1
+785,Conjoined twins,1
+786,McLaren automobiles,1
+787,Fur trade,1
+788,Expatriation,1
+789,Drug control,1
+790,Fantasy.,1
+791,Amerikaanse fiksie,1
+792,Collectors and collecting,1
+793,Weather,1
+794,Literature,1
+795,Religious satire,1
+796,"Greek language, Biblical",1
+797,Grand Prix racing,1
+798,Spiritualism,1
+799,Coincidence,1
+800,Basketwork,1
+801,Reducing diets,1
+802,"Baudelaire, Klaus (Fictitious character)",1
+803,"Cookery, Chinese",1
+804,Bibliographical citations,1
+805,Indian mythology,1
+806,"Alps, Swiss (Switzerland)",1
+807,Dutch,1
+808,"Balsan, Consuelo Vanderbilt",1
+809,Cologne (Germany),1
+810,Quilting,1
+811,Fear,1
+812,Insects,1
+813,Jupiter (Planet),1
+814,Donner Party,1
+815,Chess players,1
+816,Distributed operating systems (Computers),1
+817,Sex customs,1
+818,African American women poets,1
+819,Bronze age,1
+820,Child authors,1
+821,Climate and civilization,1
+822,Nicholas,1
+823,Carnival,1
+824,Assyria,1
+825,Cavalry pioneer troops,1
+826,Books on CD for children,1
+827,Arabs,1
+828,Italian Americans,1
+829,Canning and preserving,1
+830,Europeans,1
+831,COOKING,1
+832,Folk music,1
+833,Experiments,1
+834,Aircraft accidents,1
+835,Jacobites,1
+836,Mountaineering expeditions,1
+837,Blair Witch Project (Motion picture),1
+838,Aikido,1
+839,Dragons in literature,1
+840,Lancashire (England),1
+841,"Dunkirk, Battle of, Dunkerque, France, 1940",1
+842,Belfast (Northern Ireland),1
+843,"Sculpture, Modern",1
+844,Dictators,1
+845,Occupations,1
+846,Forensic photography,1
+847,Adventure,1
+848,Incas,1
+849,"Iraq War, 2003-",1
+850,Franse fiksie,1
+851,"Food, Junk",1
+852,Operas,1
+853,Behavior disorders in children,1
+854,Child musicians,1
+855,Raccoon,1
+856,Gymnastics,1
+857,Architects,1
+858,College students,1
+859,Second Advent,1
+860,"Cato, Quintus Licinius (Fictitious character)",1
+861,African American Communists,1
+862,Maryland,1
+863,Creative thinking,1
+864,Computer programs,1
+865,Business writing,1
+866,Microsoft .NET Framework,1
+867,Communication and culture,1
+868,Queens,1
+869,Hospital care,1
+870,Gangs,1
+871,Latin America,1
+872,Slave trade,1
+873,Christian martyrs,1
+874,Cyclones,1
+875,Criminal methods,1
+876,Body temperature,1
+877,Israeli fiction,1
+878,Business enterprises,1
+879,Teaching,1
+880,"Everest, George",1
+881,Desert Fathers,1
+882,Firearms industry and trade,1
+883,Auschwitz (Concentration camp),1
+884,Meat,1
+885,Computer software,1
+886,"Adventure stories, American",1
+887,Circle,1
+888,"Southwest, New",1
+889,Spiritual healing,1
+890,Dead,1
+891,Buddhist pilgrims and pilgrimages,1
+892,Mediterranean Region,1
+893,Multilevel marketing,1
+894,Résumés (Employment),1
+895,Bosnia and Hercegovina,1
+896,Apostrophe,1
+897,Outer space,1
+898,Hand-to-hand fighting,1
+899,Mars (Planet),1
+900,Dungeons and Dragons (Game),1
+901,"Nursery rhymes, Danish.",1
+902,"Science fiction, English",1
+903,Commonplace-books.,1
+904,"La Coruna, Battle of, La Coruna, Spain, 1809",1
+905,Latin American fiction,1
+906,"""Caractères d'imprimerie - Pays-Bas - Histoire""",1
+907,Extinct languages,1
+908,Bakeries,1
+909,Boredom,1
+910,Arnheim,1
+911,Bahrain,1
+912,Algonquian Indians,1
+913,Citation of legal authorities,1
+914,"Corbett, Hugh (Fictitious character)",1
+915,Fighter pilots,1
+916,Performing arts,1
+917,Confucianism,1
+918,"Yoga, Rāja",1
+919,Easter stories,1
+920,Grocery trade,1
+921,Electoral college,1
+922,Coming out (Sexual orientation),1
+923,Cooking (Frozen foods),1
+924,"Bir Hakeim, Battle of, 1942",1
+925,Computer science,1
+926,"Berlin Wall, Berlin, Germany, 1961-1989",1
+927,"Automobiles, Racing",1
+928,Bicycle touring,1
+929,Witches,1
+930,Legislators,1
+931,Horsemanship.,1
+932,Contemplation,1
+933,Provence (France),1
+934,Communication,1
+935,Fantasy in art,1
+936,Television,1
+937,Aged men,1
+938,Animal experimentation,1
+939,Africans,1
+940,Self-esteem,1
+941,Advertising agencies,1
+942,Healing,1
+943,Poland,1
+944,Saint (Fictitious character),1
+945,Memory,1
+946,Attitude change,1
+947,Submarines (Ships),1
+948,Colonists,1
+949,Knitting,1
+950,Mythology,1
+951,Admirals,1
+952,South Africa,1
+953,End of the world.,1
+954,Romanies.,1
+955,Ho Chi Minh City (Vietnam),1
+956,Buddhist art and symbolism,1
+957,Erotic literature,1
+958,Problem solving,1
+959,"Beck, Martin (Fictitious character)",1
+960,Governesses in literature,1
+961,Computer interfaces,1
+962,Aristophanes,1
+963,Bankers,1
+964,"Authors, German",1
+965,"Crystallization, Water of",1
+966,Mothers,1
+967,"Civilization, Islamic",1
+968,"Civilization, Ancient",1
+969,Athens (Greece),1
+970,Folk medicine,1
+971,Deserts,1
+972,Novela francesa,1
+973,Cairo (Egypt),1
+974,Alfie (Fictitious character : Hughes),1
+975,Irritable colon,1
+976,Down syndrome,1
+977,Mules,1
+978,Collie,1
+979,Dieu - Amour,1
+980,Astral projection,1
+981,Hoodlums,1
+982,Bible and evolution,1
+983,"Napoleonic Wars, 1800-1815",1
+984,"Epic poetry, Greek",1
+985,Beavers,1
+986,Cost,1
+987,Success,1
+988,African American boys,1
+989,Akenfield (England),1
+990,Chinese fiction,1
+991,Balkan Peninsula,1
+992,"Fantasy literature, English",1
+993,Philosophers,1
+994,"Economic assistance, Domestic",1
+995,Despair,1
+996,"Science fiction, Belgian (French)",1
+997,Plot-your-own stories.,1
+998,Turning (Lathe work),1
+999,Physical fitness,1
+1000,"Creation (Literary, artistic, etc.)",1
+1001,Political fiction,1
+1002,Aberystwyth (Wales),1
+1003,Batman (Comic strip),1
+1004,Cookies,1
+1005,African American comedians,1
+1006,Assertiveness (Psychology),1
+1007,Cheyenne Indians,1
+1008,"Bond, James (Fictitious character)",1
+1009,"Medicine, Popular.",1
+1010,COMICS & GRAPHIC NOVELS.,1
+1011,Conflict of generations,1
+1012,Enlightenment (Buddhism),1
+1013,"Body, Human",1
+1014,Spy stories,1
+1015,Glass painting and staining,1
+1016,Literature and science,1
+1017,Child care,1
+1018,College department heads,1
+1019,"""Autochtones - Canada - Relations avec l'État""",1
+1020,Apologetics,1
+1021,Andes,1
+1022,Nurses,1
+1023,Hotels,1
+1024,Amusement parks,1
+1025,Drowning,1
+1026,"Authors, Italian",1
+1027,"Photography, Erotic",1
+1028,Courtship,1
+1029,"Erotic stories, Australian",1
+1030,"Actors and actresses, American",1
+1031,Angola,1
+1032,Coroners,1
+1033,Czech Americans,1
+1034,Art patronage,1
+1035,Performance.,1
+1036,Divorced people,1
+1037,Sales personnel,1
+1038,"Theology, Doctrinal",1
+1039,Anger,1
+1040,Milan (Italy),1
+1041,"Love stories, American",1
+1042,Argonauts (Greek mythology),1
+1043,Home-based businesses,1
+1044,Electronic data processing,1
+1045,Bookstores,1
+1046,"Israel-Arab War, 1973.",1
+1047,"Adventure stories, English",1
+1048,"Christian literature, Early",1
+1049,Scientists,1
+1050,Children and war,1
+1051,Playboy,1
+1052,Language acquisition,1
+1053,Aristocracy (Social class),1
+1054,Hindu sects,1
+1055,"Historical drama, English",1
+1056,Book jackets,1
+1057,Self-realization,1
+1058,"""Father's Day - Children Fiction""",1
+1059,Diaries,1
+1060,Cabala,1
+1061,Contes de fées,1
+1062,Anthony (Fictitious character : Alexander),1
+1063,Anti-apartheid movements,1
+1064,Occultism.,1
+1065,Operation Mincemeat,1
+1066,Health,1
+1067,Depression in adolescence,1
+1068,Albemarle Sound (N.C.),1
+1069,Architect-designed houses,1
+1070,Koi,1
+1071,"Short stories, American",1
+1072,Artisans,1
+1073,Caribbean Area,1
+1074,CD-ROMs,1
+1075,"Africa, Sub-Saharan",1
+1076,"Liturgies, Early Christian",1
+1077,Civil rights,1
+1078,Theology,1
+1079,Portuguese language,1
+1080,Motion picture producers and directors,1
+1081,Forests and forestry,1
+1082,Creationism,1
+1083,Human ecology,1
+1084,African American entertainers,1
+1085,Basket making.,1
+1086,Canadian Rockies (B.C. and Alta.),1
+1087,Flowers in art.,1
+1088,High school teachers,1
+1089,Culture,1
+1090,Baader Meinhoff Complex (Motion picture),1
+1091,Bukhoro,1
+1092,Electricity,1
+1093,Dolphins,1
+1094,Human behavior,1
+1095,Bureaucracy,1
+1096,Crossword puzzles,1
+1097,Cinderella (Legendary character),1
+1098,Almanacs,1
+1099,Anansi (Legendary character),1
+1100,Evolution (Biology),1
+1101,Slavery,1
+1102,Programmed instruction,1
+1103,Birdsongs,1
+1104,"Chee, Jim (Fictional character)",1
+1105,Black holes (Astronomy),1
+1106,Men,1
+1107,Literary recreations.,1
+1108,Usonian houses,1
+1109,Antiques,1
+1110,"Folk songs, English",1
+1111,Clans,1
+1112,Ants,1
+1113,Cat owners,1
+1114,Algorithms,1
+1115,Creation,1
+1116,Ethnology,1
+1117,High interest-low vocabulary books,1
+1118,Civil war,1
+1119,Change,1
+1120,Identity (Psychology),1
+1121,Big books,1
+1122,Suvarrow Islands,1
+1123,"History, Modern",1
+1124,"11030 - fiction in English - p1030 - Greene, Graham - 60030 - biographies",1
+1125,"Women authors, Irish",1
+1126,Asia,1
+1127,ACT Assessment,1
+1128,Parasols,1
+1129,"Epic Poetry, Greek",1
+1130,Gobi Desert (Mongolia and China),1
+1131,Comanche Indians,1
+1132,Feng shui,1
+1133,11030 - fiction in English - p1030 - New Zealand writers - 1907- - 60030 - texts,1
+1134,"BP Deepwater Horizon Explosion and Oil Spill, 2010",1
+1135,Faith,1
+1136,Fantasy football (Game),1
+1137,Burma,1
+1138,Gynecologists,1
+1139,Atheletes,1
+1140,Mongolia,1
+1141,Sea monsters,1
+1142,Bodybuilders,1
+1143,Nonsense verses,1
+1144,New South Wales,1
+1145,Charity-schools,1
+1146,Spice trade,1
+1147,Genetic engineering,1
+1148,Cartoonists,1
+1149,Cork (Ireland : Co,1
+1150,African-American soldiers,1
+1151,Shepherds,1
+1152,Mr. Men (Fictitious characters),1
+1153,Criminals,1
+1154,"EARP, WYATT",1
+1155,Arson,1
+1156,Computational linguistics,1
+1157,Real estate investment,1
+1158,Wales,1
+1159,Perception,1
+1160,Domestic education,1
+1161,Emigration and immigration,1
+1162,"Classification, Decimal",1
+1163,Arithmetic,1
+1164,Voyages around the world,1
+1165,Art and mental illness,1
+1166,Great books of the Western world,1
+1167,Investments,1
+1168,Computer industry,1
+1169,Sierra Nevada (Calif. and Nev.),1
+1170,Astronautics in art,1
+1171,"Africa, Southern",1
+1172,Creoles,1
+1173,Espionage,1
+1174,Devotional literature,1
+1175,Calcutta (India),1
+1176,"Cereals, Prepared",1
+1177,Acupuncture,1
+1178,Arab nationalism,1
+1179,Edible landscaping,1
+1180,Animal welfare,1
+1181,Amur River (Siberia),1
+1182,Governesses,1
+1183,Flower arrangement,1
+1184,"Africa, North",1
+1185,Beaches,1
+1186,Colorado,1
+1187,Aardvark,1
+1188,Bobbsey Twins (Fictitious characters),1
+1189,Color decoration and ornament,1
+1190,Costume design,1
+1191,"Philosophy, Taoist",1
+1192,Coronary heart disease,1
+1193,Atrocities,1
+1194,Feminism,1
+1195,"Cililization, Homeric",1
+1196,Internet,1
+1197,"Generative organs, Female",1
+1198,Personality,1
+1199,Office practice,1
+1200,Authors and publishers,1
+1201,Bicycles,1
+1202,Dance,1
+1203,"Economic assistance, American",1
+1204,Encyclopaedia,1
+1205,Statistical mechanics,1
+1206,Alienation (Philosophy),1
+1207,Blind,1
+1208,"Poets, American",1
+1209,Reading,1
+1210,Banks and banking,1
+1211,Apennines (Italy),1
+1212,Celtic Church,1
+1213,Motion picture plays,1
+1214,"Short stories, Canadian",1
+1215,"""Children's literature, English""",1
+1216,Interpersonal conflict,1
+1217,Conservationists,1
+1218,Human reproduction,1
+1219,"Decoration and ornament, Architectural",1
+1220,Commercial crimes,1
+1221,Dystopian plays,1
+1222,Earthsea (Imaginary place),1
+1223,Canadian drama (French),1
+1224,Rock groups,1
+1225,Brewing,1
+1226,Italy,1
+1227,Hamptons (N.Y.),1
+1228,Cryptography,1
+1229,"Constantine, John (Fictitious character)",1
+1230,Bangkok (Thailand),1
+1231,Appliqué,1
+1232,Alcoholism,1
+1233,Free trade,1
+1234,Quakers,1
+1235,Marine pollution,1
+1236,Crystals,1
+1237,Abortion,1
+1238,Women physicians,1
+1239,Allegories,1
+1240,Imperialism,1
+1241,Rīga (Latvia),1
+1242,African fiction (English),1
+1243,Cocaine industry,1
+1244,Generative grammar,1
+1245,Biology,1
+1246,Railroad travel,1
+1247,Bridges,1
+1248,"Back Bay (Boston, Mass.)",1
+1249,Conformity,1
+1250,"Brooklyn (New York, N.Y.)",1
+1251,Misconduct in office,1
+1252,Foster home care,1
+1253,Brass instrument players,1
+1254,African American,1
+1255,"Authors, Australian",1
+1256,Canadian literature,1
+1257,Salvation,1
+1258,Anarchism,1
+1259,"""Lord's prayer""",1
+1260,Fort Lauderdale (Fla.),1
+1261,"Ciszek, Walter J.",1
+1262,Hymn writers,1
+1263,Burgundy (France),1
+1264,"Cooking, Creole",1
+1265,Aliens,1
+1266,Pigeons,1
+1267,Decision making,1
+1268,Afghanistan,1
+1269,Labor Day,1
+1270,PHOTOGRAPHY,1
+1271,"Mythology, Celtic",1
+1272,African American criminals,1
+1273,"Dramatists, English",1
+1274,Judges,1
+1275,Change (Psychology),1
+1276,Embroidery,1
+1277,Chemotaxonomy,1
+1278,Badgers,1
+1279,Amnesia,1
+1280,Hell,1
+1281,Grandmothers,1
+1282,Calaveras County (Calif.),1
+1283,Indonesia,1
+1284,Juvenile science fiction,1
+1285,Automobile travel / United States,1
+1286,Horse breeds,1
+1287,Teachers,1
+1288,Photography of wolves.,1
+1289,Career changes,1
+1290,Eastern Pomo language,1
+1291,Horsemanship,1
+1292,Crystal optics,1
+1293,Marijuana,1
+1294,Siskiyou Mountains (Calif. and Or.),1
+1295,Christian ethics,1
+1296,Pentecostalism,1
+1297,American poetry.,1
+1298,Dee Jen-Djieh (Fictitious character),1
+1299,"Aeronautics, Military",1
+1300,"Monk, William (Fictitious character)",1
+1301,Church group work,1
+1302,"Ghost stories, American",1
+1303,Church and state,1
+1304,ABAP/4 (Computer program language),1
+1305,Child sexual abuse,1
+1306,Historiography.,1
+1307,Adirondack Mountains (N.Y.),1
+1308,Accelerated readers,1
+1309,Siberia (Russia),1
+1310,Contentment,1
+1311,Stories in rhyme,1
+1312,Dakota Territory,1
+1313,Functions of real variables,1
+1314,Jazz musicians,1
+1315,Consumption (Economics),1
+1316,Hallucinogenic drugs,1
+1317,Intellectuals,1
+1318,Japanese language,1
+1319,Needlework,1
+1320,Animal sounds,1
+1321,Job hunting,1
+1322,Christian women saints,1
+1323,Russian poetry,1
+1324,Cleanliness,1
+1325,Submarine captains,1
+1326,Paranormal romance stories,1
+1327,Campaign debates,1
+1328,Canberra (A.C.T.),1
+1329,Law students,1
+1330,Botany,1
+1331,Spanish poetry,1
+1332,African American children,1
+1333,"""Alzheimer's disease""",1
+1334,Chinese Americans,1
+1335,Accidents,1
+1336,Carols,1
+1337,Recreational vehicle living,1
+1338,Academic achievement,1
+1339,Aztec magic,1
+1340,Automobiles,1
+1341,Feminism and art,1
+1342,"""Children's plays, New Zealand""",1
+1343,Massachusetts,1
+1344,Auschwitz (Poland : Concentration camp),1
+1345,Bachelors,1
+1346,Race relations,1
+1347,Animal communication,1
+1348,Public prosecutors,1
+1349,Counted thread embroidery,1
+1350,Rice wines,1
+1351,Anecdotes,1
+1352,"Atlanta Campaign, 1864.",1
+1353,Large type books.,1
+1354,"""Abu Ageila, Battle of, Abu 'Ujaylah, Egypt, 1956""",1
+1355,Cartoons and comics.,1
+1356,"""Children's stories, Australian""",1
+1357,Clouds,1
+1358,Connecticut,1
+1359,German Americans,1
+1360,Boston (Mass.),1
+1361,Sexual fantasies,1
+1362,"Chernobyl Nuclear Accident, Chornobylʹ, Ukraine, 1986",1
+1363,Circus owners,1
+1364,Historical geography,1
+1365,"Crusoe, Robinson (Fictitious character)",1
+1366,African American authors,1
+1367,Cooking (Herbs),1
+1368,Wine and wine making,1
+1369,Sharing,1
+1370,"Fantasy comic books, strips, etc",1
+1371,Fathers,1
+1372,Shopping centers,1
+1373,Abused women,1
+1374,Samoan fiction,1
+1375,Chile,1
+1376,Anorexia nervosa,1
+1377,Aphrodisiacs,1
+1378,"Broach, Bauchelain (Fictitious character)",1
+1379,Leadership,1
+1380,Aging,1
+1381,"Franco-Prussian War, 1870-1871",1
+1382,Beauty contests,1
+1383,Illegitimacy,1
+1384,Youth,1
+1385,Economic policy,1
+1386,Mathematical recreations,1
+1387,Rug and carpet industry,1
+1388,"Mythology, Norse",1
+1389,Labor movement,1
+1390,"Brown, Charlie (Fictitious character)",1
+1391,Abenaki Indians,1
+1392,"""Distinctive features (Linguistic's)""",1
+1393,Cincinnati (Ohio),1
+1394,"Africa, Central",1
+1395,"Pelée, Mount (Martinique)",1
+1396,Adoptees,1
+1397,Machine sewing,1
+1398,Family secrets,1
+1399,Hatha yoga.,1
+1400,LAW,1
+1401,Gestalt psychology,1
+1402,Vegetarian cooking,1
+1403,Social problems,1
+1404,Erotica,1
+1405,Amphibians,1
+1406,Athletes,1
+1407,Character dolls,1
+1408,Impressionism (Art),1
+1409,"Espionage, Soviet",1
+1410,Epidemics,1
+1411,"Bradley, Beatrice Lestrange (Fictitious character)",1
+1412,Advertising photography,1
+1413,Readers (Adult),1
+1414,Hairdressing,1
+1415,Erotic painting,1
+1416,Prophecies (Occultism),1
+1417,"""Children's stories, Finnish""",1
+1418,Detective and mystery radio programs,1
+1419,Furniture design,1
+1420,Organic gardening,1
+1421,"Art, Tantric",1
+1422,Community organization,1
+1423,Actors & Acting,1
+1424,Deaf,1
+1425,"Civilization, Western",1
+1426,"Brown, Father (Fictitious character)",1
+1427,Group reading,1
+1428,Ghostwriters,1
+1429,Kidnapping,1
+1430,Gay liberation movement,1
+1431,"Greek poetry, Modern",1
+1432,Congresses and conventions,1
+1433,Belgrade (Serbia),1
+1434,Extortion,1
+1435,Ethics,1
+1436,"""Children's stories.""",1
+1437,"Authors, Japanese",1
+1438,Romantic suspense fiction,1
+1439,North Carolina,1
+1440,Boeing 377 (Transport plane),1
+1441,Clubs,1
+1442,Days,1
+1443,Campaign,1
+1444,"Diplomatic and consular service, American",1
+1445,Fortune-telling by cards,1
+1446,Human-animal communication,1
+1447,Rhetoric,1
+1448,Riviera (France),1
+1449,"New Market, Battle of, New Market, Va., 1864",1
+1450,Shipwreck survival,1
+1451,Football,1
+1452,Black humor (Literature),1
+1453,Kauai (Hawaii),1
+1454,Attitude (Psychology),1
+1455,Existentialism,1
+1456,Musical instruments,1
+1457,Wolves,1
+1458,Anti-Communist movements,1
+1459,Military art and science,1
+1460,Coal mine accidents,1
+1461,"""Children's plays, American""",1
+1462,English,1
+1463,"Culloden, Battle of, 1746",1
+1464,Devotional calendars,1
+1465,Electric industries,1
+1466,Shells,1
+1467,Alberta,1
+1468,Scientology,1
+1469,Beef,1
+1470,Radicalism,1
+1471,Coal miners,1
+1472,Eugenics,1
+1473,Torture,1
+1474,Arizona,1
+1475,Poetics,1
+1476,Bars (Drinking establishments),1
+1477,Fame,1
+1478,Critical thinking,1
+1479,Picts,1
+1480,Mexico,1
+1481,"Political satire, American",1
+1482,"Education, Preschool",1
+1483,Veterinary medicine,1
+1484,Grapes,1
+1485,Gifted persons,1
+1486,Coast changes,1
+1487,Hand weaving,1
+1488,Alloys.,1
+1489,Indians,1
+1490,Bear cubs,1
+1491,Schools,1
+1492,Body weight,1
+1493,"Calrissian, Lando (Fictitious character)",1
+1494,Boxers (Sports),1
+1495,Sharks,1
+1496,Dangerously mentally ill,1
+1497,Arranged marriage,1
+1498,Go (Game),1
+1499,Justice,1
+1500,"Art, Modern",1
+1501,Icelandic language,1
+1502,Airplanes,1
+1503,Endowed public schools (Great Britain),1
+1504,Political psychology,1
+1505,Toys,1
+1506,Islands,1
+1507,Herbals,1
+1508,Alchemists,1
+1509,Sandman (Fictitious character),1
+1510,Beauty and the beast (Tale),1
+1511,Caterers and catering,1
+1512,FOREIGN LANGUAGE STUDY,1
+1513,Service industries,1
+1514,Animated films,1
+1515,Calypso (Music),1
+1516,Bowed stringed instruments,1
+1517,Sports cars,1
+1518,Calendars,1
+1519,Germany (West),1
+1520,Avocado,1
+1521,"Civilization, Viking",1
+1522,Children of celebrities,1
+1523,Extradition,1
+1524,Toy and movable books,1
+1525,Database management,1
+1526,"Baggins, Bilbo (Fictitious character)",1
+1527,Enemies,1
+1528,Bee culture,1
+1529,Chronic diseases,1
+1530,Speech,1
+1531,"Cooking, American.",1
+1532,Spiritual life,1
+1533,Bondage (Sexual behavior),1
+1534,Journalism,1
+1535,"Crimean War, 1853-1856",1
+1536,Debt,1
+1537,"Cooking, French",1
+1538,Gorilla,1
+1539,Hindu mathematics,1
+1540,"Cookery, American.",1
+1541,"Philosophy, Russian",1
+1542,Balto (Dog),1
+1543,African American civil rights workers,1
+1544,Environmental psychology,1
+1545,Computer input-output equipment,1
+1546,Captain Underpants (Fictitious character),1
+1547,Brigands and robbers,1
+1548,"Short stories, English",1
+1549,"Detective and mystery stories, English.",1
+1550,"Cooking, Indic",1
+1551,Cannes (France),1
+1552,"""Children's conduct of life""",1
+1553,Superman (Comic strip),1
+1554,Battles,1
+1555,Country music,1
+1556,"Dictionaries, Reverse",1
+1557,Elections,1
+1558,"Allon, Gabriel (Fictitious character)",1
+1559,Butterflies,1
+1560,Plant propagation,1
+1561,Missing persons,1
+1562,Hispanic American women,1
+1563,Energy conservation,1
+1564,Burglars,1
+1565,Graphic arts,1
+1566,Holocaust survivors,1
+1567,Heads of state,1
+1568,Gone with the wind (Motion picture : 1939),1
+1569,Gulf Islands,1
+1570,Ecuador,1
+1571,New Age movement,1
+1572,Polynesia,1
+1573,Atlases,1
+1574,"""Children's stories, New Zealand""",1
+1575,Feminists,1
+1576,Spies,1
+1577,"Cookery, European",1
+1578,Auschwitz (Concentration Camp) -- History,1
+1579,Chores,1
+1580,Christian pilgrims and pilgrimages,1
+1581,Betterments,1
+1582,Beauty culture,1
+1583,Auctioneers,1
+1584,"Brandstetter, Dave (Fictitious character)",1
+1585,Economists,1
+1586,Computer security,1
+1587,Fourth dimension,1
+1588,"Mythology, African",1
+1589,"Dictionaries, Polyglot",1
+1590,"Chronology, Historical",1
+1591,Job hunting.,1
+1592,"Animals, Legends and stories of",1
+1593,Caldecott Medal,1
+1594,Abduction,1
+1595,"Authors, French",1
+1596,Girls,1
+1597,CRAFTS & HOBBIES,1
+1598,Freak shows,1
+1599,Crossword puzzle makers,1
+1600,Contracts,1
+1601,London (England),1
+1602,Married women,1
+1603,Collectibles,1
+1604,Castaways,1
+1605,Industrial equipment in interior decoration.,1
+1606,"Cenci, Beatrice",1
+1607,Animal treatment,1
+1608,Orphans,1
+1609,Ally (Fictitious character : McCombie),1
+1610,Celts,1
+1611,Motherhood,1
+1612,Cuentos,1
+1613,"Fantastic comic books, strips, etc",1
+1614,"Christian poetry, Scottish Gaelic",1
+1615,Acculturation,1
+1616,Deafblind women,1
+1617,POLITICAL SCIENCE,1
+1618,Bengali fiction,1
+1619,Basketball stories,1
+1620,Gay erotic stories,1
+1621,Subways,1
+1622,Veterinarians,1
+1623,Christian education of children,1
+1624,AutoCAD.,1
+1625,Ethnologie,1
+1626,Eccentrics and eccentricities,1
+1627,"Authors, Austrian",1
+1628,Engineering,1
+1629,Literary recreations,1
+1630,Letters,1
+1631,French literature,1
+1632,Political participation,1
+1633,"Sufi poetry, Arabic",1
+1634,Bisexual men,1
+1635,Clumsiness,1
+1636,Mental healing,1
+1637,Spring,1
+1638,Arts and crafts movement,1
+1639,"Northwest, Canadian",1
+1640,Factories,1
+1641,Church history,1
+1642,Punjab (India),1
+1643,Estate planning,1
+1644,Choctaw Indians,1
+1645,Codependency,1
+1646,Frankenstein (Fictitious character),1
+1647,Emergent Reader,1
+1648,Frigates,1
+1649,"""Grierson's Cavalry Raid, 1863""",1
+1650,Middle Ages,1
+1651,LITERARY COLLECTIONS,1
+1652,Evangelists,1
+1653,MEDICAL,1
+1654,"""Children's stories, German""",1
+1655,Apprentices,1
+1656,Indian craft,1
+1657,Child guidance clinics,1
+1658,Children of clergy,1
+1659,Motion picture audiences,1
+1660,Deception,1
+1661,"Cookery, Italian",1
+1662,"Dent, Arthur (Fictitious character)",1
+1663,Frogs,1
+1664,Accident victims,1
+1665,"Broadway (New York, N.Y.)",1
+1666,Corporate governance,1
+1667,Gravity,1
+1668,"Creek War, 1813-1814",1
+1669,"Insanity, Religious",1
+1670,Hittites,1
+1671,Boatbuilding,1
+1672,Colombian fiction,1
+1673,Cold War,1
+1674,Alternative medicine,1
+1675,History of Medicine,1
+1676,Compact discs,1
+1677,"Cooking, Greek",1
+1678,Automobile travel,1
+1679,Kingdom of God (Mormon theology),1
+1680,Junior high school students,1
+1681,Braille books,1
+1682,Civil War,1
+1683,Canadian drama,1
+1684,Drummers (Musicians),1
+1685,Nursery rhymes,1
+1686,LANGUAGE ARTS & DISCIPLINES,1
+1687,Totalitarianism,1
+1688,Clinical Medicine,1
+1689,Delusions,1
+1690,Bolívar (Colombia : Department),1
+1691,CC.,1
+1692,Ocean liners,1
+1693,Tabla,1
+1694,"""Children's literature, American.""",1
+1695,Diners (Restaurants),1
+1696,Pyrenees,1
+1697,"Astronomy, Ancient",1
+1698,Argentine fiction,1
+1699,Press and politics,1
+1700,Bombas (Máquinas),1
+1701,Tarzan (Fictitious character),1
