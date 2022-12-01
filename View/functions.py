@@ -1,17 +1,7 @@
 from pickle import APPEND
 import re
-import pandas as pd
-import numpy as np
-import json
-from bs4 import BeautifulSoup
-import requests
-from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
 import smart_open
 import gensim
-
-
-
 
 def clean_books(words):
     # Remove all the special characters
