@@ -5,7 +5,7 @@
 
 This project for the class Computational Tools for Data Science is 
 
-## Maybe a figure? 
+## Architecture of our model 
 
 
 ![Text](https://github.com/liljayr/CompTools/blob/main/figures/CompToolsRecModel2.png "Image of structure of our recommendation system")
