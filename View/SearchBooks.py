@@ -2,7 +2,8 @@ import pandas as pd
 from functions import *
 from gensim.models.doc2vec import Doc2Vec
 from nltk.corpus import stopwords
-from tkinter import CENTER, NO, Button, Frame, ttk, messagebox, Entry
+import tkinter as tk
+from tkinter import CENTER, NO, Button, Frame, ttk, messagebox
 import webbrowser as wb
 
 class SearchBooks:
@@ -10,10 +11,10 @@ class SearchBooks:
         frame = Frame(root)
         frame.pack()
 
-        self.entry = Entry(root, width=100, borderwidth=5)
+        self.entry = tk.Entry(root, width=100, borderwidth=5)
         self.entry.pack(pady=20)
 
-        self.button = Button(root, text="Search 🔎", fg="black", bg="#263D42", padx=8, pady=3, borderwidth=4,
+        self.button = tk.Button(root, text="Search 🔎", fg="black", bg="#263D42", padx=8, pady=3, borderwidth=4,
                    command=self.show_table, font=('Times', 15,))
         self.button.pack(pady=20)
 
