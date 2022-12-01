@@ -8,7 +8,7 @@ This project for the class Computational Tools for Data Science is
 ## Maybe a figure? 
 
 
-![Text](https://github.com/liljayr/CompTools/blob/main/figures/CompToolsRecModel.png "Image of structure of our recommendation system")
+![Text](https://github.com/liljayr/CompTools/blob/main/figures/CompToolsRecModel2.png "Image of structure of our recommendation system")
 
 
 ## Dataset
