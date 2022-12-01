@@ -15,7 +15,7 @@ class SearchBooks:
         self.entry.pack(pady=20)
 
         self.button = tk.Button(root, text="Search 🔎", fg="black", bg="#263D42", padx=8, pady=3, borderwidth=4,
-                   command=self.show_table, font=('Times', 15,))
+                   command=lambda: self.show_table, font=('Times', 15,))
         self.button.pack(pady=20)
 
         self.table = ttk.Treeview(root, style="style.Treeview", height=30)
